@@ -2,7 +2,7 @@
 Hello, my name is Yunus . I am 21 Years Old And My Hobbies Coding Software, Website
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=CyrusEfsaneleri&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=Elzarindxd&color=dc143c"/>
 </div>
 
 <div align="center">
